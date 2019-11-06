@@ -1,2 +1,2 @@
 travis-lab
-[![Buildstatus](https://travis-ci.org/USERNAME/travis-lab.svg?master)](https://travis-ci.org/USERNAME)
+[![Buildstatus](https://travis-ci.org/brendanomeara/travis-lab.svg?master)](https://travis-ci.org/brendanomeara)
